@@ -1,2 +1,2 @@
 # KotlinMusicPlayer
-Basic music player app 
+Android basic app for music player
